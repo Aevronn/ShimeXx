@@ -8,7 +8,8 @@
 
 ### Social Media:
 
-![twitter](https://img.shields.io/badge/borabagce-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+[![twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/borabagce)
+[![İnstagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/borabagce)
 
 ### Github Stats:
 
@@ -26,8 +27,7 @@
 <br />
 
 ### Most Used languages on Github:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShimeXx)](https://github.com/ShimeXx/github-readme-stats)
 
-[twitter]: https://twitter.com/borabagce
-[instagram]: https://instagram.com/borabagce
 [linkedin]: https://linkedin.com/in/codeSTACKr

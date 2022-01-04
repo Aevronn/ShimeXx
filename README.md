@@ -26,8 +26,7 @@
 <br />
 
 ### Most Used languages on Github:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShimeXx&layout=compact)](https://github.com/ShimeXx/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShimeXx)](https://github.com/ShimeXx/github-readme-stats)
 
 [twitter]: https://twitter.com/borabagce
 [instagram]: https://instagram.com/borabagce

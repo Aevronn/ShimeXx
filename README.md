@@ -14,7 +14,7 @@
 ### Github Stats:
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShimeXx&theme=synthwave&hide_border=true&show_icons=true)](https://github.com/ShimeXx/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aevronn&theme=synthwave&hide_border=true&show_icons=true)](https://github.com/Aevronn/github-readme-stats)
 
 ### frameworks and languages ​​I know:
 
@@ -28,6 +28,6 @@
 
 ### Most Used languages on Github:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShimeXx)](https://github.com/ShimeXx/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aevronn)](https://github.com/Aevronn/github-readme-stats)
 
 [linkedin]: https://linkedin.com/in/codeSTACKr

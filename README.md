@@ -29,5 +29,3 @@
 ### Most Used languages on Github:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aevronn)](https://github.com/Aevronn/github-readme-stats)
-
-[linkedin]: https://linkedin.com/in/codeSTACKr
